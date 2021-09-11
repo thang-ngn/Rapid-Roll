@@ -1,2 +1,3 @@
 # Rapid-Roll
-RapidRoll.rb is the main file, the directory /images contains all images used for the game
+This is A really simple game made with Ruby. To run this game, please execute the RapidRoll.rb file.
+All images are stored in the /images folder.
